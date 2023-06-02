@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/bin/Debug/net7.0/S02-boucles
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/bin/Debug/net7.0/S02-boucles.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/bin/Debug/net7.0/S02-boucles.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/bin/Debug/net7.0/S02-boucles.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/bin/Debug/net7.0/S02-boucles.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/refint/S02-boucles.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/S02-boucles.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-boucles/obj/Debug/net7.0/ref/S02-boucles.dll
